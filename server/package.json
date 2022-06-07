@@ -1,0 +1,7 @@
+{
+  "name": "chatzone-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "nolraj",
+  "license": "MIT"
+}
